@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="Your NGO Logo" />
+  <img src="assets/image-banner.png" alt="Your NGO Logo" />
 </p>
 
 <!-- <h1 align="center">Becoming I Foundation</h1> -->
