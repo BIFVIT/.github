@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="BIF VIT Logo" />
+  <img src="assets/image-banner.png" alt="BIF VIT Logo" />
 </p>
 
 <!-- <h1 align="center">Becoming I Foundation</h1> -->
